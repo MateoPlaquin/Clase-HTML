@@ -1,0 +1,49 @@
+HTML (HyperText Markup Language):
+Es un "lenguage" de marcado de etiqueta, que sirve para crear documentos para la web.
+
+En el desarrollo Frontend se usa principalmente HTML, CSS Y JavaScript.
+HTML: Sirve como el esqueleto de la pagina web
+CSS: Sirve para darle estilo a la pagina web
+JavaScript: Sirve para darle interactividad a la pagina web
+
+HTML: No deben tener espacios, acentros, eñes, si simbolos o si son numeros, deben ir en minusculas.
+Debe tener la extension ".html"
+El index tiene que ir por fuera de las carpetas
+
+Etiquetas: Estan delimitadas por un inicio "<" y un final "/>" exepto de algunas que no tienen final
+Dentro de las etiquetas va el contenido.
+Toda etiqueta debe tener un inicio y un final. 
+Atributos de las etiquetas: conocidos como "tags" se ponen en el opening, se dividen en dos partes, El nombre y el valor, separados por un signo (=)
+
+Regla General: <h1>Esto es un titulo</h1>, html funciona encerrando un contenido entre un opening y closing.
+
+El tag <a href="URL"></a>, se usa para crear hipervinculos. (Ese texto va a llevar al usuario a la URL que se le indique)(El href es un atributo de la etiqueta <a>)
+Anidar etiquetas: Es posible meter una etiqueta dentro de otra etiqueta.
+Tags Anidados: <ul></ul>, es para una lista desordenada y <ol></ol> es para una lista ordenada.
+ol va a contener el listado y li va a contener cada uno de los elementos de la lista.
+
+Tipos de etiquetas:
+1- Las etiquetas cerradas: encierran un contenido, por lo general texto
+2- Las etiquetas abiertas: imagenes, videos, etc.
+Ej de etiquetas cerradas: <h1>Esto es un titulo</h1>
+Ej de etiquetas abiertas: <br>
+
+Escructura basicas de una pagina web:
+<!DOCTYPE html>, es una etiqueta que se utiliza para indicarle al navegador que el documento es un documento HTML5.
+<head></head>, es la parte privada de la pagina, se utiliza como un espacio de comunicacion entre el sitio web con el navegador, esta etiqueta contiene otras etiquetas importantes como <title></title> y <meta></meta>
+La etiqueta <meta></meta> agrega informacion sobre la pagina, la cual usan los navegadores para mostrar la pagina web. 
+la etiqueta <body></body>, encierra el contenido visible de nuestra pagina web, es la parte publica de la pagina web.
+La etiqueta <title></title>, es el titulo de la pagina web, es lo que se muestra en la barra de titulo del navegador.
+
+HTML5 incorpora etiquetas semanticas que no solo general Escructura sino que tambien definen su contenido.
+
+Tipos de etiquetas: Grupo general (1:30)
+
+Tipos de contenedor:
+El <div></div>, es un contenedor en bloque y el <span></span>, es un contenedor en linea muy util para trabajar con texto.
+    <div>
+        <h2>hola de nuevo</h2>
+    </div>
+
+
+

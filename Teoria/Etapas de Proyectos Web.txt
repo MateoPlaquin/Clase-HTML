@@ -1,0 +1,15 @@
+Pasos para la creación de una pagina web:
+
+1: Sketch es un boceto de la pagina web, es un diseño de la pagina web.
+2: Wireframe es un esqueleto de la pagina web.
+3: MockUp es un prototipo de la pagina web.
+4: Prototipo interactivo es una pagina web funcional.
+5: Diseño final es la pagina web terminada.
+
+Wireframe: Es la representacion estatica. Se toman en cuenta los siguientes aspectos
+-Los grupos de contenido
+-La estructura de la informacion
+-La descripcion y visualizacion basica del usuario-interacion de la interfaz.
+
+MockUp: Es la representacion estatica de un diseño, en calidad media o alta.
+

@@ -1,0 +1,88 @@
+Profesor titular: Agustina Ramos
+Email: fmariaagustina.ramos@streambe.com
+Linkedin: https://www.linkedin.com/in/agustina-ramos-14942b123/
+
+
+Aplicacion Web / Sitio Web: https://blog.ida.cl/estrategia-digital/diferencias-aplicacion-web-sitio-web/
+
+Herramientas que vamos a usar: HTML, CSS, JAVASCRIP, REACT, NODEJS
+Exploradores: Edge, FireFox y Safari
+Editores de Codigo: Visual Studio Code, Sublime text, Atom, PHPstorm
+
+Extenciones de Visual Studio Code:
+
+
+Dos estructuras: HTML Y CSS
+HTML: Es un lenguage de etiquetado
+CSS: Es una hoja de estilo
+Javascript: Se ejecuta en el ambito de una pagina web, es una herramienta muy potente y muy utilizada. (la mayoria de los FRAMEWORKS o LIBRERIAS utilizan javascript Frontend).
+NODEJS: Es un entorno de ejecucion para javascript, popular para casi todos los proyectos y muy amplio en el mercado laboral.
+NPM (NODE PACKAGE MANAGER): Sistema de gestion de paquetes para NODE.JS en un entorno de ejecucion de javascript.
+REACT JS / NATIVE: Es una BIBLIOTECA de javascript, es para crear interfaces de usuario con la finalidad de crear aplicaciones web en una sola pagina.
+LIBRERIAS Y FRAMEWORKS: Las librerias te ayudan a resolver un problema especifico, mientras que los frameworks te ayudan a resolver un problema mas general.
+
+
+Crear un proyecto en REACT: npx create-react-app nombre-del-proyecto
+Iniciar el proyecto: npm start
+Instalar dependencias: npm install nombre-de-la-dependencia
+
+
+Git: Sistema de control de versiones, sirve para tener un registro de las accciones en nuestro codigo y nos permite trabajar de forma remota con otras personas.
+Rama Principal: se llama master, es la rama estable de nuestro proyecto.
+
+GitHub: Es un sitio web que nos permite alojar nuestros proyectos y trabajar de forma remota con otras personas.
+
+
+Comandos Basicos de Git: 
+git init: Inicializa un repositorio local
+git add: Agrega archivos al area de preparacion
+git status: Muestra el estado de los archivos
+git commit: Confirma los cambios
+git push: Sube los cambios al repositorio remoto
+git pull: Trae los cambios del repositorio remoto
+git clone: Clona un repositorio remoto
+
+Etapas de Git: 
+AREAS:
+Directorio de Trabajo: Es el directorio donde se encuentra el proyecto
+Staging Area: Es el area donde se preparan los archivos para ser confirmados
+Repositorio local: Es el repositorio que se encuentra en nuestro ordenador
+Repositorio remoto: Es el repositorio que se encuentra en la nube, donde se trabaja sobre el.
+
+SUBIR CAMBIOS:
+Directorio de Trabajo: Donde estan nuestros archivos
+get init: crea nuestra area de trabajo (stading area)
+git add: agrega los archivos al area de stading
+    git add nombre-del-archivo: para agregar un archivo en especifico
+    git add . (punto) : para agregar todos los archivos
+
+STAGING:
+git commit: confirma los cambios
+    git commit -m "mensaje": para agregar un mensaje a la confirmacion
+    git commit -am "mensaje": para agregar un mensaje a la confirmacion y agregar los archivos al area de stading
+
+REPOSITORIO LOCAL:
+git push: sube los cambios al repositorio remoto
+    git push origin master: para subir los cambios a la rama master
+
+TRAER CAMBIOS:
+git merge: cuando necesitamos combinar codigos de diferentes personas que trabajan por separado
+git pull: trae los cambios del repositorio remoto
+
+
+TAREA PARA EL VIERNES:
+Que es HTML?
+y Cuales son sus etiquetas mas importantes?
+
+HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web
+
+Etiquetas de HTML:
+<!DOCTYPE html>: Es la primera etiqueta que se debe colocar en un documento HTML. Esta etiqueta indica al navegador que el documento que se está leyendo es un documento HTML5.
+<html>: Es la etiqueta que encierra todo el contenido de un documento HTML.
+<head>: Es la etiqueta que encierra todo el contenido que no se mostrará en el navegador, como por ejemplo, el título de la página, los estilos, los scripts, etc.
+<title>: Es la etiqueta que define el título de la página.
+<body>: Es la etiqueta que encierra todo el contenido que se mostrará en el navegador.
+<h1> hasta <h5>: Es la etiqueta que define un título del nivel 1 hasta el nivel 5.
+<p>: Es la etiqueta que define un párrafo.
+<a>: Es la etiqueta que define un enlace.
+<img>: Es la etiqueta que define una imagen.
