@@ -45,5 +45,16 @@ El <div></div>, es un contenedor en bloque y el <span></span>, es un contenedor 
         <h2>hola de nuevo</h2>
     </div>
 
+Elementos de bloque:
+
+Elementos de linea:
+
+Css: Unidades de medidas Absolutas: Px: es la unidad que usan las pantallas
+
+Relativas: Rem, %, Viewport: Se utilizan para layouts responsivos
+
+id: Solamente modificarias un solo elemento (unico)
+class: Modificarias varios elementos (multiples)
+
 
 

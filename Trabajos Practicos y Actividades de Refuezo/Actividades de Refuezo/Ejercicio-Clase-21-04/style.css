@@ -1,0 +1,41 @@
+body {
+  background-color: #3d5a80;
+  text-decoration-color: #f7ede2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: rgb(238, 108, 77);
+}
+
+h2 {
+  color: #e0fbfb;
+}
+
+li {
+  color: whitesmoke;
+}
+
+#bordeado {
+  border: 3px solid white;
+}
+
+.aloha {
+  background-color: 293241;
+  text-decoration-color: white;
+}
+
+input {
+  border: 2px dashed rgb(238, 108, 77);
+}
+
+div p {
+  font-size: 150%;
+  text-decoration-color: #98c1d9;
+}
+
+/* lograr que los imput con type="text" tengan un fondo celeste */
+
+input[type="text"] {
+  background-color: #98c1d9;
+}
