@@ -39,3 +39,10 @@ div p {
 input[type="text"] {
   background-color: #98c1d9;
 }
+
+/* Hacé que los <a> que fueron visitados se pongan color blanco y que el link se abra en una pestaña nueva */
+
+a:visited {
+  color: red;
+}
+
