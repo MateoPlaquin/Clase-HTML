@@ -1,0 +1,38 @@
+.los-malos {
+  background-color: red;
+}
+
+.los-buenos {
+  background-color: blue;
+}
+
+#darth {
+  font-size: 50px;
+  background-color: red;
+}
+#luke {
+  font-style: italic;
+}
+
+.soldados {
+  border-style: dashed;
+  letter-spacing: 5px;
+}
+
+.apoyo {
+  text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
+
+img.androides {
+    display: block;
+    margin: auto;
+}
+
+
+
+
+
