@@ -56,5 +56,38 @@ Relativas: Rem, %, Viewport: Se utilizan para layouts responsivos
 id: Solamente modificarias un solo elemento (unico)
 class: Modificarias varios elementos (multiples)
 
+Trabajos obligatorios: 
 
+JavaScript: 
+
+Algoritmo: Es un conjunto de procedimientos o funciones ordenadas que se ultilizan para realizar cierta accion o tarea
+Consiste en encarar un problema complejo y dividir su resolucion en diversos pasos, pensar como resolver cada uno y luego secuenciarlos correctamente para llegar al resultado esperado.
+
+Variables: Es un espacio reservado en la memoria que puede cambiar el contenido a lo largo del programa, en la variable almacenamos diversos tipos de datos que utilizamos en la aplicacion
+Declaracion de variables: VAR, LET, CONST (palabras claves) Para los nombres no podemos usar caracteres especiales 
+
+Const: Tienen controles adicionales para las variables. Impiden que se puedan crear variables con el mismo nombre, no se pueden modificar su valor, se deben inicializar al momento de declararlas.
+Let: Una variable let puede recibir multiples asignaciones en el transcurso de la aplicacion, es decir, que puede cambiar de valor varias veces.
+Var: Se puede modificar el valor de la variable
+
+Valores en JS: El js manipula distintos tipos de datos, con una sintaxis particular para cada uno de ellos. (JS es case sensitive, es decir, las mayusculas y minusculas tienen modificadores distintos)
+
+valores:
+
+Primitivos:
+1234 - numericos
+"hola"- string
+true false - booleano
+undefined - una variable que no esta definida
+null - es un valor que se le asigna a una variable para indicar que no tiene valor
+
+Compuestos:
+
+
+Bug: Son los errores de software o problemas en el codigo que desencadenan resultados inesperados.
+Palabras reservadas "keyWords": Son palabras que tienen un significado especial en el lenguaje y no pueden ser utilizadas como nombres de variables, funciones, etc.
+
+
+Funciones: 
+typeof: Es una funcion nativa de JS a la que podes pasar un Parametro y retornara que tipo de dato es: si se trata de un String, null, undefined, etc.
 

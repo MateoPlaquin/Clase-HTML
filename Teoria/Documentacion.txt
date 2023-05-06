@@ -86,3 +86,6 @@ Etiquetas de HTML:
 <p>: Es la etiqueta que define un párrafo.
 <a>: Es la etiqueta que define un enlace.
 <img>: Es la etiqueta que define una imagen.
+
+lenguage interpretado: significa que se ejecuta por medio de un programa interprete.
+Java vs JavaScript: Java es un lenguage propetiario mientras que JS es un lenguage de codigo abierto y ademas es un lenguaje de front y back-end.
